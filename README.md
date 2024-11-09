@@ -18,8 +18,6 @@ This is provided dataset [Dataset](
 5. Find the top 10 cuisines.
 6. Top 10 cuisines served by restaurants.
 
-[Download Report](file:///C:/Users/HP/Downloads/ZOMATO%20FINAL%20.pdf)
-
 ## Insights
 1. The top 5 countries according to counts is India, United states, United kingdom, Brazil, South Africa.
 2. So, our maximum rating is from 2.5 to 3.5 and the color is orange. Basically this our average rating.
