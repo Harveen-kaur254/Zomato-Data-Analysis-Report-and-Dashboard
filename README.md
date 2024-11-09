@@ -5,7 +5,7 @@ In this project we have analyzed the zomato dataset with the help of python by f
 Zomato data analysis is the project in which we are provided with dataset which have 9551 rows and 21 columns of different data like the ratings, cuisines, country, and all. We have analyze this data with python by follow the process of EDA(Exploratory data analysis and after that make a dashboard in Excel. We have analyzed insights like the top countries, top cities, top restaurants, cuisines and all. 
 This is provided dataset [Dataset](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FHarveen-kaur254%2FZomato-Data-Analysis-Report-and-Dashboard%2Frefs%2Fheads%2Fmain%2Fexcel%2520zomato%2520dashboard.xlsx&wdOrigin=BROWSELINK)
 
-## [Download Report](https://github.com/Harveen-kaur254/Zomato-Data-Analysis-Report-and-Dashboard/blob/main/ZOMATO%20FINAL%20.pdf)
+[Download Report](https://github.com/Harveen-kaur254/Zomato-Data-Analysis-Report-and-Dashboard/blob/main/ZOMATO%20FINAL%20.pdf)
 
 ## So, this is our analysis:
 [Analysis](![image](https://github.com/user-attachments/assets/92b345c6-3ed4-46b2-87e4-a76f2d1d6a09)
